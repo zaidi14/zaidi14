@@ -1,56 +1,21 @@
-# 👋 Hi, I’m Syed Muhammad Mojiz Ali Zaidi
+# 💫 About Me:
+<br><br>🔭 I’m currently working on<br><br>Cloud-native and IoT security projects, focusing on SOC-oriented monitoring, secure cloud architectures, and hardening distributed systems using IAM, RBAC, encryption, and logging best practices.<br><br>👯 I’m looking to collaborate on<br><br>Cloud security, SOC automation, and IoT security initiatives—such as SIEM integrations, cloud threat detection, secure device communication, and security monitoring for distributed environments.<br><br>🤝 I’m looking for help with<br><br>Advanced SOC workflows, cloud-native threat hunting, SIEM/SOAR tooling, and securing IoT ecosystems at scale (device identity, secure firmware updates, and zero-trust models).<br><br>🌱 I’m currently learning<br><br>Cloud security architectures, SOC operations, incident response for cloud and IoT environments, and security frameworks aligned with ISO/IEC 27001 and industry standards.<br><br>💬 Ask me about Certifications<br><br>ISC2 Certified in Cybersecurity (CC), cloud security fundamentals, SOC career paths, and preparing for entry-level security certifications as a student.<br><br>⚡ Fun fact<br><br>I like analyzing cloud and IoT attack surfaces end-to-end—from edge devices to the cloud control plane—and then building detections as if I were the SOC defending them.<br>
 
-I’m a **Computer Engineering student** at *Abdullah Gül University (AGU)* 👨‍💻  
-I’m passionate about **software engineering and real-world apps**.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaidi.mojiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mojiz Zaidi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mojiz Zaidi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaidimojiz4@gmail.com) 
 
-## 💻 Tech Stack
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zaidi14&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zaidi14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidi14&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-**Languages:**  
-🟦 C++ | 🐍 Python | 🌐 HTML & CSS | ☕ Java | 🤖 Kotlin | ⚡ Dart | 📦 TypeScript
-
-**Tools & Platforms:**  
-Git • GitHub • VS Code • Android Studio • CLI
-
----
-
-## 🚀 What I’m Working On
-
-⭐ Improving project documentation & test coverage  
-⭐ Building more **mobile & web apps**  
-⭐ Learning advanced topics in **security & system design**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zaidi14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=zaidi14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🗂️ Pinned Projects
-
-Here are some of my showcased works:
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **ATTENDANCE-MANAGEMENT-SYSTEM** | Attendance app with chatbot | `CSS` |
-| **iot-parking-monitor** | Parking occupancy monitor | `TypeScript` |
-| **app** | International student support app | `Dart` |
-| **TASKINATOR** | Task manager (open UI improvements) | `Python` |
-| **EXPENSE_TRACKER** | Small expense tracker tool | `Python` |
-
-
----
-
-## 📊 GitHub Stats
-
-<!-- Profile Stats (optional add badges) -->
-![](https://github-readme-stats.vercel.app/api?username=zaidi14&show_icons=true&theme=dark)
-
----
-
-## 📫 Contact
-
-**Email:** syed.zaidi@agu.edu.tr  
-**LinkedIn:** https://linkedin.com/in/mojiz-zaidi  
-**Instagram:** https://instagram.com/zaidi.mojiz
-
----
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
