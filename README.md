@@ -5,7 +5,7 @@ I design and build **infrastructure-level security systems** that operate seamle
 
 ---
 
-## ⚡ Core Focus Areas
+##  Core Focus Areas
 
 *   **Cloud Network Security Architecture** (Advanced Azure-based systems)
 *   **Distributed IoT + Edge Telemetry Pipelines** (Secure event-driven architectures)
@@ -26,7 +26,7 @@ I design and build **infrastructure-level security systems** that operate seamle
 
 ---
 
-## 🚀 Flagship Systems
+##  Flagship Systems
 
 ### **1. Cloud-Native Deception Architecture**
 > **Azure-Based Adversary Simulation**
@@ -45,7 +45,7 @@ I design and build **infrastructure-level security systems** that operate seamle
 
 ---
 
-## 📈 Engineering Domains (Recruiter View)
+##  Engineering Domains (Recruiter View)
 
 ### 🔹 **Cloud & Network Security**
 Designing robust defense-in-depth on public cloud. Expert in **Azure Virtual Network isolation**, **NSG-based traffic control**, and secure system deployment pipelines grounded in deep **TCP/IP behavior analysis**.
@@ -58,7 +58,7 @@ Bridging the gap between physical hardware and cloud security. Proficient in **E
 
 ---
 
-## 🔭 Current Engineering Initiatives
+##  Current Engineering Initiatives
 
 *   Scaling highly distributed, hybrid **Cloud + Edge** security architectures.
 *   Optimizing real-time detection pipelines using structured, high-fidelity telemetry.
@@ -66,7 +66,7 @@ Bridging the gap between physical hardware and cloud security. Proficient in **E
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 *   **LinkedIn:** https://www.linkedin.com/in/mojiz-zaidi/
 *   **Email:** zaidimojiz4@gmail.com
