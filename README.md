@@ -1,160 +1,74 @@
-# Mojiz Zaidi
+# SYED MUHAMMAD MOJIZ ALI ZAIDI
+### **Cloud & Network Security Engineer | Distributed Systems & Infrastructure Security**
 
-**Infrastructure Security Engineer | Detection & Telemetry Systems | Cloud + Edge Security Architect**
-
----
-
-## SYSTEM FOCUS
-
-I build security systems that operate at the intersection of:
-
-- Cloud-native detection engineering
-- Edge / IoT security architectures
-- Adversary simulation & deception systems
-- Network and infrastructure defense
-- Real-time telemetry pipelines
-
-My work focuses on designing systems that don’t just secure infrastructure — they **observe, simulate, and expose adversarial behavior in real time**.
+I design and build **infrastructure-level security systems** that operate seamlessly across cloud, network, and edge environments. My engineering philosophy treats security not as a static defense, but as a live environment designed to model behavior, expose intent, and convert adversarial interaction into measurable intelligence.
 
 ---
 
-## CORE ENGINEERING DOMAINS
+## ⚡ Core Focus Areas
 
-### Cloud & Infrastructure Security
-- Azure security architecture (VNet isolation, NSGs)
-- Linux hardening & system design
-- Secure deployment pipelines
-- Identity and access control systems
-
-### Detection Engineering
-- Event-driven security pipelines
-- SIEM-style telemetry systems (ELK Stack)
-- Attack surface instrumentation
-- Log-driven security analytics
-
-### Edge & IoT Security Systems
-- MQTT-based distributed systems
-- Embedded security (ESP32 / Arduino)
-- Sensor fusion + real-time decision systems
-- Edge ML inference pipelines
-
-### Adversary Simulation / Deception
-- Honeypot-based systems
-- Financial decoy environments
-- Attack behavior analysis
-- Zero-trust isolation architectures
+*   **Cloud Network Security Architecture** (Advanced Azure-based systems)
+*   **Distributed IoT + Edge Telemetry Pipelines** (Secure event-driven architectures)
+*   **Secure Identity & Authentication Systems** (Hardware & software-level access control)
+*   **Adversary Simulation** (High-fidelity deception environments)
+*   **Event-Driven Security & Observability** (Real-time telemetry and detection pipelines)
 
 ---
 
-## FLAGSHIP SYSTEMS
+## 🛠️ Tech Stack & Skill Mapping
 
-### 1. Cloud-Native Deception Architecture
-Cloud security + adversary simulation system built on Azure.
-
-- Multi-plane architecture (Deception / Observability / Isolation)
-- T-Pot honeypot integration
-- Financial system decoys
-- ELK-based telemetry pipeline
-- Zero false-positive detection model
-
-→ Demonstrates: cloud security architecture + detection engineering
+| Domain | Technologies & Frameworks | Expert Competencies |
+| :--- | :--- | :--- |
+| **Cloud & Infrastructure** | Microsoft Azure, Linux SysAdmin | VNet Design, Network Segmentation, Isolation Architectures |
+| **Security & Observability** | ELK Stack (Elastic, Kibana, Filebeat) | SIEM Pipelines, Threat Modeling, MITRE ATT&CK Mapping |
+| **IoT & Edge Systems** | ESP32, Arduino, MQTT | Firmware Dev, Hardware-Software Integration, Edge Inference |
+| **Languages & Scripting** | Python, C/C++, TypeScript, JavaScript, Bash | State Machine Design, Multi-Layer Distributed Automation |
 
 ---
 
-### 2. Edge Authentication & Access Control System
-Raspberry Pi + Arduino based secure physical access system.
+## 🚀 Flagship Systems
 
-- RFID + face verification + gesture authentication
-- State machine-driven access control
-- Serial communication protocol (Pi ↔ Arduino)
-- Real-time security decision pipeline
+### **1. Cloud-Native Deception Architecture**
+> **Azure-Based Adversary Simulation**
+*   Built a high-fidelity deception system simulating complex financial infrastructure to capture and analyze adversarial behavior.
+*   **Key Focus:** Network-level security modeling, attack surface reduction, and behavioral logging via structured telemetry.
 
-→ Demonstrates: edge security + embedded systems + identity control
+### **2. Edge Authentication & Access Control System**
+> **Multi-Layer Identity Infrastructure**
+*   Designed a secure, hardware-based identity system combining **RFID**, **facial recognition**, and robust **serial communication logic**.
+*   **Key Focus:** Edge authentication pipelines, low-latency state-machine execution, and secure device-to-cloud flows.
 
----
-
-### 3. IoT Enforcement & Monitoring System
-Distributed smart infrastructure monitoring system.
-
-- ESP32 sensor network
-- MQTT-based event streaming
-- Edge ML inference (TinyML)
-- Real-time violation detection + escalation system
-
-→ Demonstrates: IoT security + distributed systems + telemetry
+### **3. EdgeVision IoT Enforcement System**
+> **Distributed IoT Monitoring & Detection**
+*   Engineered a distributed real-time monitoring system utilizing **ESP32 nodes**, high-throughput **MQTT pipelines**, and ML-based edge detection.
+*   **Key Focus:** Sensor fusion, real-time message routing, and distributed system coordination.
 
 ---
 
-## CURRENT AREAS OF DEVELOPMENT
+## 📈 Engineering Domains (Recruiter View)
 
-- Detection engineering pipelines for cloud environments
-- Scalable telemetry systems for security analytics
-- Edge-based identity verification systems
-- Adversary behavior modeling in cloud infrastructure
+### 🔹 **Cloud & Network Security**
+Designing robust defense-in-depth on public cloud. Expert in **Azure Virtual Network isolation**, **NSG-based traffic control**, and secure system deployment pipelines grounded in deep **TCP/IP behavior analysis**.
 
----
+### 🔹 **Detection-Oriented Systems**
+Moving beyond passive logging. I architect **log-based security pipelines** and **ELK-style observability frameworks** driven by state-machine security logic for precise event correlation and behavioral tracking.
 
-## TECH STACK
-
-**Cloud / Infrastructure**
-- Microsoft Azure
-- Linux (Ubuntu, system hardening)
-- Networking (TCP/IP, VLANs, routing, firewalls)
-
-**Security & Observability**
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-- SIEM concepts & log correlation
-- MITRE ATT&CK mapping
-
-**IoT / Edge**
-- ESP32 / Arduino
-- MQTT
-- Embedded C / C++
-- Python automation
-
-**Programming**
-- Python (primary)
-- C / C++
-- Java / TypeScript
-- Shell scripting
+### 🔹 **Embedded / Edge Systems Engineering**
+Bridging the gap between physical hardware and cloud security. Proficient in **Embedded C/C++**, handling raw sensor data, and creating highly resilient, low-latency edge decision systems.
 
 ---
 
-## CERTIFICATIONS
+## 🔭 Current Engineering Initiatives
 
-- ISC² Certified in Cybersecurity (CC)
-- ISO/IEC 27001 Information Security Associate
-- CCNA Coursework (Cisco)
-- Microsoft Security Fundamentals
-
----
-
-## PHILOSOPHY
-
-Security is not about blocking attackers.
-
-It is about **observing intent, modeling behavior, and designing systems that make malicious activity measurable.**
+*   Scaling highly distributed, hybrid **Cloud + Edge** security architectures.
+*   Optimizing real-time detection pipelines using structured, high-fidelity telemetry.
+*   Developing increasingly realistic, automated adversary simulation environments.
 
 ---
 
-## CURRENT FOCUS
+## 🤝 Connect With Me
 
-Building systems that move from:
+*   **LinkedIn:** https://www.linkedin.com/in/mojiz-zaidi/
+*   **Email:** zaidimojiz4@gmail.com
 
-> "basic security projects"
-
-to
-
-> "engineering-grade security infrastructure with observable adversarial behavior"
-
----
-
-## SELECTED PROJECTS
-
-Pinned below are systems representing:
-
-- Cloud security architecture
-- Edge authentication systems
-- IoT enforcement networks
-
-Each project is designed to simulate real-world infrastructure security problems, not academic exercises.
+*“Security systems are live environments that convert interaction into intelligence.”*
