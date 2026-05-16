@@ -20,9 +20,6 @@ Computer Engineering student focused on:
 - MQTT/IoT Systems
 - Infrastructure Hardening
 
-## Featured Projects
-[links]
-
 ## Certifications
 - ISC2 CC
 - ISO 27001
